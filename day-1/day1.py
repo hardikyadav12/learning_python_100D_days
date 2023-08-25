@@ -7,10 +7,10 @@ print("print('what to print')")
 print("Hello World\nHello World")
 
 # String Concatenation
-#print("Hello " + "Hardik")
+print("Hello " + "Hardik")
 
 #Inputing from User And printing it
-#print("Hello " + input("What is your name"))
+print("Hello " + input("What is your name"))
 
 #Variables
 name = input("What is your name")
